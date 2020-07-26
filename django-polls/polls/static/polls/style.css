@@ -1,0 +1,11 @@
+body{
+    background: white url('images/1-urban-photography.preview.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-origin: initial;
+
+}
+
+li a{
+    color: coral;
+}
